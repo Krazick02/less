@@ -1,0 +1,17 @@
+.container {
+    margin-top: 0;
+    padding: 0;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    align-items: center;
+    background-color: orange;
+  }
+  .container fieldset form label {
+    color: #ff0404;
+  }
+  .container fieldset form button {
+    background-color: green;
+    color: white;
+  }
+  
